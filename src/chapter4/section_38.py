@@ -27,4 +27,4 @@ for idx, item in enumerate(word_count):
 plt.hist(data, bins=20, range=(1, 20))
 plt.xlabel("単語出現頻度")
 plt.show()
-plt.savefig("/Users/reiven/Documents/Python/NLP_100_Knock/data/chapter4/word_hist.png")
+# plt.savefig("/Users/reiven/Documents/Python/NLP_100_Knock/data/chapter4/word_hist.png")
